@@ -1,6 +1,6 @@
 
 import Header from '../header/header';
-import hero from '../../../public/images/hero.PNG';
+import hero from '../../../public/images/main.png';
 import Image from 'next/image';
 import { faPlay } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

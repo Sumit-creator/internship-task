@@ -119,9 +119,6 @@ color: #FFFFFF;
   font-size: 50px;
   line-height: 61px;
   color: #000000;
-  /* font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 50px; */
   margin-bottom: 0.75rem;
 }
 .he2{
@@ -214,7 +211,6 @@ color: #FFFFFF;
   color: #000000;
 }
 .te2{
-  /* font-bold text-lg md:text-4xl md:leading-[50px] mb-3 */
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
@@ -269,16 +265,6 @@ color: #FFFFFF;
 }
 .contact {
   background-color: #eaf2fd;
-  /* display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-top: 5rem;
-  padding-left: 10rem; 
-  padding-right: 10rem; 
-  padding-top: 5rem; 
-  padding-bottom: 5rem; 
-  margin-bottom: 5rem;
-  height: 400px; */
 }
 .c1{
   padding: 1.25rem;
@@ -297,9 +283,6 @@ color: #FFFFFF;
   text-decoration-line: underline;
   color: #4F4F4F;
 
-  /* flex: none;
-  order: 1;
-  flex-grow: 0; */
 }
 .c3{
   font-weight: 600;
@@ -312,9 +295,6 @@ color: #FFFFFF;
   line-height: 39px;
   text-align: left;
   color: #4F4F4F;
-  /* flex: none;
-  order: 1;
-  flex-grow: 0; */
 }
 
 .fa {
@@ -470,7 +450,6 @@ input::-webkit-inner-spin-button {
   .contact{
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
   }
   .c4{
     display: block;
@@ -478,9 +457,6 @@ input::-webkit-inner-spin-button {
     margin:0;
     right:0;
     width:80%;
-    /* height: 50%;
-    width: 90%;
-    margin-top: 0; */
   }
   .c6, .c7, .c8{
     width: 90%;
