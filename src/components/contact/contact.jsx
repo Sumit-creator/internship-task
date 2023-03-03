@@ -184,8 +184,8 @@ const Contact = () => {
 
           <Button
             variant="solid"
-            colorScheme='blue'
             className="c9 submit-btn"
+            colorScheme='skyblue'
             isLoading={isLoading}
             disabled={
               !values.name ||
