@@ -1,5 +1,5 @@
 import Image from "next/image";
-import auto from "../../../public/images/automation.png";
+import auto from "../../../public/images/sub.png";
 import Link from "next/link";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
